@@ -1,10 +1,23 @@
 body {
     background-color: white;
 }
-.nvbrtop1 {
+/* .nvbrtop1 {
     background-color: #ff0066;
     z-index: 2;
+} */
+
+.nvbr1 {
+    background-color: #ff0066;
 }
+.nvbrlink1 {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.nvbrlink1:hover {
+    color: black;
+}
+
 .cntnr1 {
     margin-top: 50px;
     margin-left: auto;
